@@ -19,6 +19,10 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
+### Developed By: JANARTHANAN K
+### Register No.: 212223040072
+### Date: 14/10/2024
+
 ## 1.To Write a C program that illustrates files copying 
 ```
 #include <sys/stat.h>
